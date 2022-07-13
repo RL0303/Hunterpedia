@@ -104,7 +104,7 @@
             </objects>
             <point key="canvasLocation" x="1808.6956521739132" y="2.6785714285714284"/>
         </scene>
-        <!--View Controller-->
+        <!--More-->
         <scene sceneID="W0N-pe-DGq">
             <objects>
                 <viewController id="EEd-ya-BPb" sceneMemberID="viewController">
@@ -131,11 +131,11 @@ Hunter × Hunter was adapted into a 62-episode anime television series produced 
                         <viewLayoutGuide key="safeArea" id="wfg-qm-ZHD"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="tfg-HU-X7j"/>
+                    <navigationItem key="navigationItem" title="More" id="tfg-HU-X7j"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yDq-NS-dRo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2605.7971014492755" y="2.6785714285714284"/>
+            <point key="canvasLocation" x="2606" y="3"/>
         </scene>
         <!--Home-->
         <scene sceneID="KuO-kA-IgW">
@@ -160,7 +160,7 @@ Hunter × Hunter was adapted into a 62-episode anime television series produced 
         <scene sceneID="Chv-AO-3Nx">
             <objects>
                 <tableViewController id="4P2-iL-0Wj" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" id="6gP-EZ-LZj">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" sectionFooterHeight="-1" id="6gP-EZ-LZj">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -480,7 +480,7 @@ He takes the role of the main protagonist in the Yorknew City and Succession Con
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xFW-wZ-NUk">
                                 <rect key="frame" x="58" y="425" width="287" height="233"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <mutableString key="text">Hisoka Morow (ヒソカ゠モロウ, Hisoka Morou) is a Hunter and former member #4 of the Phantom Troupe; his physical strength ranked third in the group. He is always in search for strong opponents, and would spare those who have great potential, such as Gon and Killua in order for them to get strong enough to actually challenge him. He originally served as the primary antagonist of the Hunter Exam arc and the Heavens Arena arc, before becoming a supporting character during the Yorknew City arc and Greed Island arc. </mutableString>
+                                <string key="text">Hisoka Morow (ヒソカ゠モロウ, Hisoka Morou) is a Hunter and former member #4 of the Phantom Troupe; his physical strength ranked third in the group. He is always in search for strong opponents, and would spare those who have great potential, such as Gon and Killua in order for them to get strong enough to actually challenge him. He originally served as the primary antagonist of the Hunter Exam arc and the Heavens Arena arc, before becoming a supporting character during the Yorknew City arc and Greed Island arc. </string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
